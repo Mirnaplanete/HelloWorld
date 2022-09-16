@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Examples\Example004_DIV\bin\Debug\net6.0\Example004_DIV.exe
+C:\Users\HOME\Desktop\Examples\Example004_DIV\bin\Debug\net6.0\Example004_DIV.deps.json
+C:\Users\HOME\Desktop\Examples\Example004_DIV\bin\Debug\net6.0\Example004_DIV.runtimeconfig.json
+C:\Users\HOME\Desktop\Examples\Example004_DIV\bin\Debug\net6.0\Example004_DIV.dll
+C:\Users\HOME\Desktop\Examples\Example004_DIV\bin\Debug\net6.0\Example004_DIV.pdb
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.dll
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\refint\Example004_DIV.dll
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.pdb
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\Example004_DIV.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Examples\Example004_DIV\obj\Debug\net6.0\ref\Example004_DIV.dll
